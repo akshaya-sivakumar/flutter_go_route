@@ -1,0 +1,4 @@
+#Fri Mar 17 12:47:49 IST 2023
+base.0=/Users/akshayas/Documents/market_simplified/flutter_web/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
